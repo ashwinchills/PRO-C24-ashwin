@@ -1,1 +1,2 @@
-# PRO-C24-ashwin
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
